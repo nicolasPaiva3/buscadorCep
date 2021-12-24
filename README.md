@@ -1,6 +1,6 @@
 # Buscador cep
 
-projeto que utiliza a api viaCEP para consultar CEPS. voce pode buscar o cep que desejar.
+projeto que utiliza a api viaCEP para fazer consultas de CEP. voce pode buscar o cep que desejar.
 
 ## Começando
 Para inicar o projeto, voce precisa clonar este repositorio, entrar na pasta e instalar a dependencias. Para utilizar ele nao precisa inicar nada no back end, pois estamos uma api ja construida.
